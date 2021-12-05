@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Base>
+    <Product>
+        <name>iphone_8</name>
+        <amount>1200</amount>
+    </Product>
+    <Product>
+        <name>iphone_8pro</name>
+        <amount>500</amount>
+        <dimension height="5.0" length="90.0" weight="4.0" width="5.0"/>
+    </Product>
+    <Product>
+        <name>bears</name>
+        <amount>200</amount>
+        <dimension height="60.0" length="50.0" weight="0.5" width="30.0"/>
+        <location cell="D" floor="0" row="4"/>
+    </Product>
+</Base>
